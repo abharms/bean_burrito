@@ -1,3 +1,3 @@
 # google_homepage
 
-New to coding, studying ruby on rails.
+http://www.theodinproject.com/web-development-101/html-css?ref=lnav
